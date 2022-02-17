@@ -4,7 +4,7 @@
 
 ##### NIM : 215611105
 
-#A. INSTALLASI GIT di WINDOWS
+# A. INSTALLASI GIT di WINDOWS
 
 Sebelum install Git di Windows kita perlu mendownload GIT terlebih dahulu.
 
@@ -13,16 +13,16 @@ Sebelum install Git di Windows kita perlu mendownload GIT terlebih dahulu.
    ![01](image/install_git/1.png)
 
 2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain. Klik Next untuk lanjut.
-   ![01](image/install_git/2.png)
+   ![01](image/install_git/2.PNG)
 
 3. Pilih komponen. Tidak perlu diubah-ubah, sesuai dengan default saja. Klik pada Next
-   ![01](image/install_git/3.png)
+   ![01](image/install_git/3.PNG)
 
 4. Proses install Git
-   ![01](image/install_git/4.png)
+   ![01](image/install_git/4.PNG)
 
 5. Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
-   ![01](image/install_git/5.png)
+   ![01](image/install_git/5.PNG)
 
 6. Untuk menjalankan, dari Start, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI".
    ![01](image/install_git/6.png)
@@ -36,7 +36,7 @@ Sebelum install Git di Windows kita perlu mendownload GIT terlebih dahulu.
 9. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
    ![01](image/install_git/9.png)
 
-#B. KONFIGURASI GIT
+# B. KONFIGURASI GIT
 
 Untuk melakukan konfigurasi GIT kita bisa melakukan melalui Command prompt dengan memakai perintah sebagai berikut.
 
@@ -56,7 +56,7 @@ $ git config --list
 Maka hasilnya seperti pada gambar dibawah ini:
 ![01](image/install_git/10.png)
 
-#C. Mengelola Repo Sendiri di Account Sendiri
+# C. Mengelola Repo Sendiri di Account Sendiri
 
 Untuk membuat repo, gunakan langkah-langkan berikut:
 
@@ -66,7 +66,8 @@ Untuk membuat repo, gunakan langkah-langkan berikut:
 2. Isikan nama, keterangan, serta lisensi. Jselain itu bisa dibuat repo Private
    ![01](image/install_git/13.png)
 
-#D. Mengelola Repo Sendiri di Organisasi
+# D. Mengelola Repo Sendiri di Organisasi
+
 Untuk membuat repo, gunakan langkah-langkan berikut:
 
 1. Masuk pada Organisasi Kalian lalu Klik tanda + pada bagian atas setelah login, pilih New repository
